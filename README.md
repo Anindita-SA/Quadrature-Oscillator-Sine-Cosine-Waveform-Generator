@@ -109,7 +109,7 @@ Measured: 83-85° (within tolerance)
 ## References
 
 - Horowitz & Hill, "Art of Electronics" (3rd Ed., §5.17)
-- [YouTube reference video](link)
+- [YouTube reference video](https://www.youtube.com/watch?v=ud4fuO_mj5U&t=720s&pp=ygU1cXVhZHJhdHVyZSBvc2NpbGxhdG9yIHVzaW5nIG9wIGFtcCBsdHNwaWNlIHNpbXVsYXRpb24%3D)
 
 ## License
 
@@ -117,6 +117,6 @@ Educational/open source - standard quadrature oscillator topology
 
 ## Contact
 
-[Your links]
+[[Your links](https://github.com/Anindita-SA)]
 
 **Status:** Active development - contributions welcome
