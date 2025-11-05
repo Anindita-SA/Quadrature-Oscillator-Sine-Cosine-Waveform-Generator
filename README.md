@@ -93,8 +93,8 @@ Measured: 83-85° (within tolerance)
 
 ## Files
 
-- `schematic.png` - Circuit diagram
-- `simulation.asc` - LTspice file
+- `[schematic.png](https://github.com/Anindita-SA/Quadrature-Oscillator-Sine-Cosine-Waveform-Generator/blob/61d378de57019a960dd601e74cefbcc4ff721f99/Final%20PCB%20for%201khz%20Sine%20wave%20generator%202.pdf)` - Circuit diagram
+- `[simulation.asc](https://github.com/Anindita-SA/Quadrature-Oscillator-Sine-Cosine-Waveform-Generator/tree/61d378de57019a960dd601e74cefbcc4ff721f99/LTSpice%20simulation%20for%201kHz%20SineCosine%20Generator)` - LTspice file
 - `calculations.md` - Design math
 - `troubleshooting.md` - Issues log
 
@@ -117,6 +117,6 @@ Educational/open source - standard quadrature oscillator topology
 
 ## Contact
 
-[[Your links](https://github.com/Anindita-SA)]
+[[Github](https://github.com/Anindita-SA)]
 
 **Status:** Active development - contributions welcome
