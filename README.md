@@ -14,7 +14,7 @@
 - IC: LM358 dual op-amp
 
 ## Circuit Design
-![PCB Design]([https://github.com/Anindita-SA/Quadrature-Oscillator-Sine-Cosine-Waveform-Generator/blob/ec95d1f80b87d8a7ebc8c4eaff0b449fbab8e4df/Final%20PCB%20for%201khz%20Sine%20wave%20generator%201.png])
+<img width="1723" height="892" alt="Image" src="https://github.com/user-attachments/assets/d8465280-8a14-4b4c-8ebc-3e0f734e5e2d" />
 ### Topology
 State-variable quadrature oscillator implementing:
 ```
