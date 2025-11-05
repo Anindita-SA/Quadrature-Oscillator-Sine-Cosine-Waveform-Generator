@@ -30,6 +30,8 @@ d(cosine)/dt = -ω × sine
 
 [Final PCB for 1khz Sine wave generator 2.pdf](https://github.com/user-attachments/files/23353181/Final.PCB.for.1khz.Sine.wave.generator.2.pdf)
 
+![PCB Schematic](https://github.com/user-attachments/assets/2d81f5f0-5557-46ea-af72-c94c67041611)
+
 ### Components
 
 | Component | Value | Function |
